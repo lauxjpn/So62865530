@@ -1,0 +1,12 @@
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Sources\EFCoreIssues\So62865530\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

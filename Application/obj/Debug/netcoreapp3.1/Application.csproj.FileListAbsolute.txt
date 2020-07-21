@@ -1,0 +1,9 @@
+E:\Sources\EFCoreIssues\So62865530\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Sources\EFCoreIssues\So62865530\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Sources\EFCoreIssues\So62865530\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Sources\EFCoreIssues\So62865530\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+E:\Sources\EFCoreIssues\So62865530\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Sources\EFCoreIssues\So62865530\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Sources\EFCoreIssues\So62865530\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Sources\EFCoreIssues\So62865530\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Sources\EFCoreIssues\So62865530\Application\obj\Debug\netcoreapp3.1\Application.pdb
